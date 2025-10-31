@@ -291,10 +291,12 @@ The Liberty files are present in the library path,
 <img width="1910" height="1185" alt="Screenshot 2025-10-13 111244" src="https://github.com/user-attachments/assets/13f8c68a-17d8-4a2d-bfa7-db09374dd00f" />
 
 #### Fig 9: Area report of case and ifelseif construct
+<img width="1917" height="1195" alt="Screenshot 2025-10-31 134352" src="https://github.com/user-attachments/assets/cb63e2e2-6010-42eb-9294-9c97a298412c" />
+<img width="1904" height="1186" alt="Screenshot 2025-10-13 111326" src="https://github.com/user-attachments/assets/3d67eb14-85a4-4ddc-be05-1972e614fc49" />
 
 #### Fig 10: Power Report of case and ifelseif construct
-
-#### Fig 11: Timing Report of case and ifelseif construct
+<img width="1919" height="1199" alt="Screenshot 2025-10-31 134403" src="https://github.com/user-attachments/assets/4aa540ba-458b-4f5a-b801-64642670a04c" />
+<img width="1906" height="1179" alt="Screenshot 2025-10-13 111347" src="https://github.com/user-attachments/assets/ad411eac-a475-429b-8a3d-81754fe612c6" />
 
 #### Fig 12: Tabulate Area,Power and Timing Report Comparision of ALU using case and ifelseif construct
 
